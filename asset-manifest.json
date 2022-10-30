@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.ad1064e4.css",
+    "main.js": "/portafolio/static/js/main.f9e1f519.js",
+    "static/js/787.0e9c6c00.chunk.js": "/portafolio/static/js/787.0e9c6c00.chunk.js",
+    "static/media/fondo1.png": "/portafolio/static/media/fondo1.8640a2e1e8f9a2fecc12.png",
+    "static/media/Clima-laboral.png": "/portafolio/static/media/Clima-laboral.6a05d008f2b0af6eb594.png",
+    "static/media/Psicolab.png": "/portafolio/static/media/Psicolab.5d2662d5de6f6b070587.png",
+    "static/media/logo.png": "/portafolio/static/media/logo.7585ae82e2054d625d0b.png",
+    "index.html": "/portafolio/index.html",
+    "main.ad1064e4.css.map": "/portafolio/static/css/main.ad1064e4.css.map",
+    "main.f9e1f519.js.map": "/portafolio/static/js/main.f9e1f519.js.map",
+    "787.0e9c6c00.chunk.js.map": "/portafolio/static/js/787.0e9c6c00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad1064e4.css",
+    "static/js/main.f9e1f519.js"
+  ]
+}
